@@ -1,0 +1,42 @@
+body{
+    background-image:url(basc.png);
+    overflow: hidden;
+    background-image: url(back.jpg);
+    background-size: cover;
+}
+.botoes{
+
+    position: relative;
+    top: 50%;
+    text-align: center;
+
+}
+
+input{ color: #eea508ea;
+
+    font-variant: all-small-caps;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+
+}
+
+.textobase{
+    
+color:white;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+text-align: center;
+top:41%;
+font-size: 35px;
+
+}
+
+h1{
+    
+        font-size: 22px;
+        left: 176px;
+        color: yellow;
+        position: relative;
+        top: 66%;
+}
